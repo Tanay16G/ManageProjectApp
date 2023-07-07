@@ -1,4 +1,3 @@
-package.json
 .parcel-cache/data.mdb
 .parcel-cache/lock.mdb
 .gitignore
@@ -9,3 +8,6 @@ dist/index.7271efb6.js.map
 dist/index.html
 dist/ManageProjectApp.3464ddca.js
 dist/ManageProjectApp.3464ddca.js.map
+.parcel-cache/
+node_modules/
+dist/
