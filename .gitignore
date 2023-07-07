@@ -1,1 +1,4 @@
 package.json
+.parcel-cache/data.mdb
+.parcel-cache/lock.mdb
+.gitignore
